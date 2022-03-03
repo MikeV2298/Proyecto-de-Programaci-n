@@ -1,6 +1,6 @@
 
-x = 10
-y = 3
+x = 11
+y = 2
 suma = x + y
 print(suma)
 
