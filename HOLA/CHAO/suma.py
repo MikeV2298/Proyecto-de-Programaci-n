@@ -1,5 +1,5 @@
-x = 100
-y = 10
+x = 99
+y = 11
 
 suma = x + y
 print(suma)
